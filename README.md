@@ -10,6 +10,6 @@
  [![Wooyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwoo99&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Fav Techs
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=LINUX&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=CISCO&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=CISCO&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=LINUX&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </div>
