@@ -6,6 +6,7 @@
 
 # Fintech Back-end Developer
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9A%B0%EC%9A%A9-%EC%95%88-aa8842246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/%EC%9A%B0%EC%9A%A9-%EC%95%88-aa8842246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![Resume Badge](https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white&link=https://my.surfit.io/w/1635758282)](https://my.surfit.io/w/1635758282)
  
  [![Wooyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwoo99&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
